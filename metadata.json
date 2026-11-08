@@ -1,0 +1,6 @@
+{
+  "name": "MTG Draft Log & 17Lands Tracker",
+  "description": "Mobile MTG draft tracker prototype with 17lands-style stacked deck viewer inside an iPhone 13 Pro Max shell.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
